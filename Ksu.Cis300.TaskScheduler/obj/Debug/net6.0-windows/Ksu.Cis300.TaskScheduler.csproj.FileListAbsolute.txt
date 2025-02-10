@@ -1,0 +1,17 @@
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\bin\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.exe
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\bin\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.deps.json
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\bin\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.runtimeconfig.json
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\bin\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.dll
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\bin\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.pdb
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.UserInterface.resources
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.csproj.GenerateResource.cache
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.AssemblyInfo.cs
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.sourcelink.json
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.dll
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\refint\Ksu.Cis300.TaskScheduler.dll
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.pdb
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\Ksu.Cis300.TaskScheduler.genruntimeconfig.cache
+C:\Users\MadelineHarp\Source\Repos\homework-assignment-5-MharpKSU\Ksu.Cis300.TaskScheduler\obj\Debug\net6.0-windows\ref\Ksu.Cis300.TaskScheduler.dll

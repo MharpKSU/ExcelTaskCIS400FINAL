@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "c62nNQOrEQQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MadelineHarp\\Source\\Repos\\homework-assignment-5-MharpKSU\\Ksu.Cis300.TaskScheduler\\Ksu.Cis300.TaskScheduler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MadelineHarp\\.nuget\\packages\\ksu.cs.codeanalyzers\\1.0.3.2\\ksu.cs.codeanalyzers.1.0.3.2.nupkg.sha512",
+    "C:\\Users\\MadelineHarp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\MadelineHarp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\MadelineHarp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\MadelineHarp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "KSU.CS.CodeAnalyzers/1.0.3.2": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "KSU.CS.CodeAnalyzers/1.0.3.2": {
+      "sha512": "vWfChBbfJlQacDhdV8VWUBz/HbRA9RaBONxt8aj4/30GFswua9OeWpqNQWh/rBXZ/372HyAJWcjq5P1ebnZAtQ==",
+      "type": "package",
+      "path": "ksu.cs.codeanalyzers/1.0.3.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE-2.0.txt",
+        "analyzers/dotnet/cs/Ksu.Cs.CodeAnalyzers.dll",
+        "analyzers/dotnet/cs/PropertyChangedAnalyzers.dll",
+        "ksu.cs.codeanalyzers.1.0.3.2.nupkg.sha512",
+        "ksu.cs.codeanalyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Ksu.Cs.CodeAnalyzers >= 1.0.3.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MadelineHarp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MadelineHarp\\Source\\Repos\\homework-assignment-5-MharpKSU\\Ksu.Cis300.TaskScheduler\\Ksu.Cis300.TaskScheduler.csproj",
+      "projectName": "Ksu.Cis300.TaskScheduler",
+      "projectPath": "C:\\Users\\MadelineHarp\\Source\\Repos\\homework-assignment-5-MharpKSU\\Ksu.Cis300.TaskScheduler\\Ksu.Cis300.TaskScheduler.csproj",
+      "packagesPath": "C:\\Users\\MadelineHarp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MadelineHarp\\Source\\Repos\\homework-assignment-5-MharpKSU\\Ksu.Cis300.TaskScheduler\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MadelineHarp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Ksu.Cs.CodeAnalyzers": {
+            "target": "Package",
+            "version": "[1.0.3.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.33, 6.0.33]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
